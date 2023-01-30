@@ -1,1 +1,1 @@
-# JDBC-Dev-1
+# Java Database Connectivity with MySQL
