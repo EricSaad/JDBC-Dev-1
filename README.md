@@ -14,9 +14,7 @@ Github repository : https://github.com/EricSaad/JDBC-Dev-1
 ![image](https://user-images.githubusercontent.com/57573723/215507986-2d0b0e5a-a442-4781-bfa7-60ca42b6bde9.png)
 
 -	Creating and printing SQL Statements.
-
-![image](https://user-images.githubusercontent.com/57573723/215507487-b218c8ce-4140-4e9a-b4c8-5170cc099a7b.png)
-
+![image](https://user-images.githubusercontent.com/57573723/215508294-c01346b8-6cb1-46c2-ab5b-c1e3d583971d.png)
 
 
 -	Testing our code.
