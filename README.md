@@ -2,7 +2,7 @@
 
 
 Applications Distribuées – Devoir 1
-Eric Saad (202175)
+
 
 Github repository : https://github.com/EricSaad/JDBC-Dev-1
 
