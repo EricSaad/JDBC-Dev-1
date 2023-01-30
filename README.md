@@ -7,14 +7,11 @@ Eric Saad (202175)
 Github repository : https://github.com/EricSaad/JDBC-Dev-1
 
 -	Adding the JDBC drivers to the build path of the project.  
-
-![image](https://user-images.githubusercontent.com/57573723/215507121-4a334dcd-4cbd-46f7-a3bd-f32e60b629f5.png)
+![image](https://user-images.githubusercontent.com/57573723/215507932-fe70df24-5037-4275-a25a-0e00735d3dd7.png)
 
 
 -	Creating the connection.
-
-![image](https://user-images.githubusercontent.com/57573723/215507188-657816c0-f558-4804-bbf8-96fcedfec035.png)
-
+![image](https://user-images.githubusercontent.com/57573723/215507986-2d0b0e5a-a442-4781-bfa7-60ca42b6bde9.png)
 
 -	Creating and printing SQL Statements.
 
